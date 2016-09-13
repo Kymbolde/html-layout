@@ -1,0 +1,37 @@
+.main-header {
+	width:33.3333%;
+	height:100vh;
+	background: #3498DB;
+	float: left;
+}
+
+#left-section {
+	width: 33.3333%;
+    height: 100vh;
+    background: #00FFD8;
+    float: left;
+}
+
+#right-section {
+	width: 33.3333%;
+	height: 100vh;
+	background: #CDF260;
+	float: left;
+}
+
+#bottom-section {
+	width: 33.33333%;
+    height: 20vh;
+    background: red;
+    margin-top: -10.26%;
+    margin-left: 66.6666%;
+    float: left;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	line-height: 20vh;
+}
