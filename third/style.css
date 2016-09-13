@@ -1,0 +1,62 @@
+@import 'https://fonts.googleapis.com/css?family=Abel|Raleway';
+
+#section-one {
+	height: 13vh;
+	width: 100%;
+	background: #D6D6D6;
+	float: left;
+}
+
+#section-two {
+	height: 100px;
+	width: 100px;
+	background: #55A0FC;
+	float: left;
+	margin-left: 15px;
+	margin-top: -6%;
+}
+
+#section-three {
+	height: 23vh;
+	width: 100%;
+	background: white;
+	float: left;
+}
+
+#section-four {
+	height: 16vh;
+	width: 100%;
+	background: #55A0FC;
+	float: left;
+}
+
+#section-five {
+	height: 16vh;
+	width: 100%;
+	background: #00FFED;
+	float: left;
+}
+
+#section-six {
+	height: 16vh;
+	width: 100%;
+	background: #CDF260;
+	float: left;
+}
+
+#section-seven {
+	height: 16vh;
+	width: 100%;
+	background: yellow;
+	float: left;
+}
+
+h1 {
+	font-family: 'Abel', 'Raleway', sans-serif;
+	font-size: 30px;
+	color: #000;
+	text-align: left;
+	padding-left: 5vw;
+	padding-right: 5vw;
+	padding-top:  5vh;
+}
